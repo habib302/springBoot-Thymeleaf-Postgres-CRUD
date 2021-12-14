@@ -2,10 +2,17 @@
 
 
 ### `Features:`
-1. Current weather data is fetch from https://openweathermap.org/ using API KEY
-2. User must enter his/her City name
-3. User can see Current temparature,Humidity,Wind speed,Longitude & Latitude location etc.
+1. User can create new student.
+2. User can update existing student firtName, LastName & email.
+2. IF user want to delete student, by clicking delete he can delete student from database.
 
+### `Project dependencies`
+1. Spring-boot-starter-data-jpa
+2. spring-boot-starter-thymeleaf
+3. spring-boot-starter-web
+4. spring-boot-devtools
+5. postgresql
+6. spring-boot-maven-plugin
 
 
 ### `Home page:`
