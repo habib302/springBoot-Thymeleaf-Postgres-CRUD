@@ -2,9 +2,10 @@
 
 
 ### `Features:`
-1. User can create new student.
-2. User can update existing student firtName, LastName & email.
-2. IF user want to delete student, by clicking delete he can delete student from database.
+1. The project is about student management system.
+2. User can create new student profile.
+3. User can update existing student's firtName, LastName & email.
+4. IF user want to delete a student, by clicking delete he can delete student from database.
 
 ### `Project dependencies`
 1. Spring-boot-starter-data-jpa
