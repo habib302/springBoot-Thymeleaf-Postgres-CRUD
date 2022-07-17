@@ -1,4 +1,4 @@
-## springBoot-Thymeleaf-Postgres-CRUD`
+## Student Management System`
 
 
 ### `Features:`
